@@ -20,11 +20,13 @@ html {
 
 body {
     background-color: #f2ece5;
+    margin: 0;
+    padding: 0;
 }
 
 .bigcircle {
-	width: 200px;
-	height: 200px;
+	width: 100px;
+	height: 100px;
 	background: #fac8e1;
 	border-radius: 50px;
 }
