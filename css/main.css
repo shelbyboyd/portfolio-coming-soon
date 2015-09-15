@@ -13,6 +13,7 @@ html {
     text-size-adjust: 100%;
     background-color: #f2ece5;
     overflow: hidden;
+    font-family: 'Lato', sans-serif;
 } 
 
 *, *::before, *::after {
@@ -36,8 +37,14 @@ body {
     margin-left: 15%; 
 }
 
+
 .text {
-    margin: 10%;
-    padding-top: 20%;
+    margin-right: 12%;
+    margin-left: 6%;
+    padding-top: 25%;
     text-align: right;
+}
+
+h1 {
+    font-weight: 700;
 }
