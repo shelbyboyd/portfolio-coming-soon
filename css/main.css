@@ -48,3 +48,12 @@ body {
 h1 {
     font-weight: 700;
 }
+
+.shelby {
+    overflow: hidden;
+    top: 5%;
+    left: 15%;
+    width: 200px;
+    height: auto;
+    
+}
