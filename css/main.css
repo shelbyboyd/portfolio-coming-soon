@@ -50,10 +50,10 @@ h1 {
 }
 
 .shelby {
-    overflow: hidden;
-    top: 5%;
-    left: 15%;
-    width: 200px;
+    position: absolute;
+    top: 28%;
+    left: 8%;
+    width: 150px;
     height: auto;
-    
+    z-index: 2;    
 }
